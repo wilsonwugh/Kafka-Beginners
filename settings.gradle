@@ -1,0 +1,3 @@
+rootProject.name = 'Kafka-Beginners'
+include 'Kafka-basics'
+
